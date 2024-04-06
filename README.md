@@ -1,8 +1,8 @@
 // setup
-//npm i or npm install 
+- npm i or npm install 
 
 // run
-//npm test
+- npm test
 
 // run test
-// npm jest
+- npm jest
