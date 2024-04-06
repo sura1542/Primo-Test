@@ -5,4 +5,4 @@
 - npm test
 
 // run test
-- npm jest
+- npx jest
