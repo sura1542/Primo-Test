@@ -13,7 +13,7 @@
 // Note: Don't allow to use any sort function
 
 
-export function PRIMO(num1: number[], num2: number[], num3: number[]): number[] {
+export function PRIMO(num1: number[], num2: number[]): number[] {
     const result: number[] = [];
     let i = 0;
     let j = 0;
